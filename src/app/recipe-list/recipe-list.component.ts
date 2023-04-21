@@ -11,7 +11,7 @@ export class RecipeListComponent {
     new Recipe(
       'Test recipe',
       'bla bla bla',
-      'https://www.google.com/url?sa=i&url=https%3A%2F%2Fstephaniessweets.com%2Fmoist-triple-chocolate-cake%2F&psig=AOvVaw2uk0oh1wDoZJ7GJ8pSRnnz&ust=1682107987981000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPivpNuiuf4CFQAAAAAdAAAAABAE'
+      'https://stephaniessweets.com/wp-content/uploads/2020/05/IMG_0243-1024x952.jpg'
     ),
   ];
 }
