@@ -13,5 +13,10 @@ export class RecipeListComponent {
       'bla bla bla',
       'https://stephaniessweets.com/wp-content/uploads/2020/05/IMG_0243-1024x952.jpg'
     ),
+    new Recipe(
+      'Test recipe 2',
+      'loerm25',
+      'https://stephaniessweets.com/wp-content/uploads/2020/05/IMG_0243-1024x952.jpg'
+    ),
   ];
 }
